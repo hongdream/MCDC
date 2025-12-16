@@ -5,7 +5,8 @@ Contact:
 
 - tauhongcai@gmail.com (Note that the e-mail shown in our paper is unavailable now.)
 
-![image-20251216153128194](C:\Users\33705\AppData\Roaming\Typora\typora-user-images\image-20251216153128194.png)
+<img width="1384" height="798" alt="image" src="https://github.com/user-attachments/assets/197d8587-0155-4177-add3-378eda9357f9" />
+
 
 ## How to Run MCDC
 
